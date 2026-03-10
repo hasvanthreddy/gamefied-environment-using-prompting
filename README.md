@@ -1,4 +1,4 @@
-# coQuest: Climate Challenge - Project Overview
+# Gamefied Environment 
 
 This is an educational environmental awareness game built with Next.js and React.  
 The game aims to educate players about climate and environmental topics while keeping them engaged through gamification elements like scores, achievements, and power-ups.
