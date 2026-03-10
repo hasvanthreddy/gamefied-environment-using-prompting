@@ -58,5 +58,5 @@ The game aims to educate players about climate and environmental topics while ke
 
 4. Open in browser:
    http://localhost:3000
-#direct link
+## direct link
  https://gamefied-environment-using-promptin.vercel.app/
